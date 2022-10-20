@@ -1,1 +1,35 @@
 
+h2 {
+font-size: 1.5em;
+margin: 1.3em 0 0.8em 0;
+line-height: 1.5;
+clear: both;
+}
+
+h3 {
+font-size: 1.17em;
+    padding: 0.5em;
+    color: #fff;
+    background: #68be8d;
+    margin: 1.3em 0 0.8em 0;
+    line-height: 1.5;
+    clear: both;
+}
+h4 {
+    padding: 0.5em;
+    color: #494949;
+    background: #f4f4f4;
+    border-left: solid 5px #68be8d;
+    margin: 1.3em 0 0.8em 0;
+    line-height: 1.5;
+    clear: both;
+}
+h5 {
+    padding: 0.25em 0.5em;
+    color: #494949;
+    background: transparent;
+    border-left: solid 5px #68be8d;
+    font-size: 0.83em;
+        margin: 1.3em 0 0.8em 0;
+    line-height: 1.5;
+}
